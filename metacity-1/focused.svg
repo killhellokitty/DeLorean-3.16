@@ -21,11 +21,11 @@
     <linearGradient
        id="linearGradient3789">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.04;"
+         style="stop-color:#ffffff;stop-opacity:0.18000001"
          offset="0"
          id="stop3791" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0"
          offset="1"
          id="stop3793" />
     </linearGradient>
@@ -226,9 +226,9 @@
        xlink:href="#linearGradient3789"
        id="linearGradient3795"
        x1="14.714286"
-       y1="18"
+       y1="21.735836"
        x2="14.714286"
-       y2="48.016663"
+       y2="46.482304"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -239,16 +239,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="14.99"
-     inkscape:cx="-10.472015"
-     inkscape:cy="17.835931"
+     inkscape:cx="-5.9773182"
+     inkscape:cy="17.602442"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -260,7 +260,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -279,18 +279,32 @@
        rx="0"
        ry="0" />
     <rect
-       style="opacity:0.9;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.9;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173"
        width="30"
        height="1"
        x="0"
        y="46" />
     <rect
-       style="opacity:0.9;fill:#969696;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.9;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-2"
        width="30"
        height="1"
        x="0"
        y="47" />
+    <rect
+       style="opacity:0.87999998;fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4173-0"
+       width="30"
+       height="1"
+       x="0"
+       y="19" />
+    <rect
+       style="opacity:0.45;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4173-0-7"
+       width="30"
+       height="1"
+       x="0"
+       y="18" />
   </g>
 </svg>
