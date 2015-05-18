@@ -725,6 +725,31 @@ style "scrollbar"
   }
 }
 
+style "emacs-scrollbar" = "scrollbar"
+{
+  engine "pixmap" 
+  {
+    image 
+    {
+      function			= BOX
+      detail			= "trough"
+      file			= "Scrollbars/emacs-trough-h.svg"
+      border			= { 7,7,3,3 }
+      stretch			= TRUE
+      orientation		= HORIZONTAL
+    }
+    image 
+    {
+      function			= BOX
+      detail			= "trough"
+      file			= "Scrollbars/emacs-trough-v.svg"
+      border			= { 3,3,7,7 }
+      stretch			= TRUE
+      orientation		= VERTICAL
+    }
+  }
+}
+
 style "menubar"
 {
     bg_pixmap[NORMAL] = "Others/background.png"
@@ -2648,6 +2673,8 @@ widget "gtk-tooltip*"  			style "tooltips"
 
 # Xchat special cases
 widget "*xchat-inputbox"                                     style "entry"
+
+widget_class "*macs*<GtkScrollbar>"  style "emacs-scrollbar"
 
 # GIMP
 # Disable gradients completely for GimpSpinScale
