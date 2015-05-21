@@ -5555,3 +5555,8 @@ these are pretty self explicative */
 @define-color wm_button_active_color_c #777777;
 @define-color content_view_bg #ffffff;
 
+/*Ubuntu Styles*/
+
+/*import@url("unity.css");
+  import@url("ubuntu_styles.css")
+  */
